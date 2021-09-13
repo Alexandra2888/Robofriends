@@ -1,4 +1,4 @@
-# You ca see project live on https://hopeful-mcclintock-25bd78.netlify.app/
+# You can see project live on https://hopeful-mcclintock-25bd78.netlify.app/
 
 
 # Getting Started with Create React App
