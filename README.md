@@ -1,9 +1,11 @@
-# <h2>You can see project live on https://hopeful-mcclintock-25bd78.netlify.app/</h2>
+<img  width=“964” alt="robofriends" src="https://github.com/Alexandra2888/Robofriends/blob/main/robofriends.png">
 
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# <h2>You can see project live on https://hopeful-mcclintock-25bd78.netlify.app/</h2>
 
 ## Available Scripts
 
